@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Javascript, HTML, CSS, SQL, PHP, LAMP..
+- 🌱 I’m currently learning Javascript, HTML, CSS, SQL, PHP, Apache2, MySQL, Git & GitHub...
 <!--
 **fmmdevs/fmmdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
