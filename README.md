@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Javascript, HTML, CSS, SQL, PHP, Laravel, Apache2, MySQL, Git & GitHub...
+- 🌱 I’m currently learning Vue3 and laravel
 <!--
 **fmmdevs/fmmdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
