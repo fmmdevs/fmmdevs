@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Currently
-I am currently learning Vue3 and deepening my knowledge of Laravel to put into practice everything I have learned so far.
+I am currently focusing on becoming an expert on Java 21, Spring and Spring Boot in order to become a backend developer.
 
 ## About Me
 
@@ -22,7 +22,7 @@ I am currently completing a Higher Degree in Web Application Development. Throug
 - **Markup Languages:**
   - XML, HTML, XPath, XQuery, JSON
 - **Client-Side Programming:**
-  - JavaScript
+  - JavaScript, Vue.js
 - **Server-Side Programming:**
   - PHP and Laravel
 - **Design:**
