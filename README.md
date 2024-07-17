@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Currently
-I am currently focusing on becoming an expert on Java 21, Spring and Spring Boot in order to become a backend developer.
+I am currently focusing on mastering Java 21, Spring and Spring Boot in order to become a backend developer.
 
 ## About Me
 
