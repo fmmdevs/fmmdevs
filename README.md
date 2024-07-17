@@ -4,7 +4,7 @@ I am currently focusing on mastering Java 21, Spring and Spring Boot in order to
 
 ## About Me
 
-I am currently completing a Higher Degree in Web Application Development. Throughout my studies, I have gained extensive knowledge and experience in various areas of web development and software engineering.
+I've been studying a Higher Degree in Web Application Development from 2022 to 2024. Throughout my studies, I have gained extensive knowledge and experience in various areas of web development and software engineering.
 
 ### First Year:
 - **Programming Languages & Paradigms:**
