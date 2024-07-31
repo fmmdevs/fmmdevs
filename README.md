@@ -10,7 +10,7 @@ I've been studying a Higher Degree in Web Application Development from 2022 to 2
 - **Programming Languages & Paradigms:**
   - Java and Object-Oriented Programming (OOP)
 - **Databases:**
-  - SQL and Relational Databases
+  - SQL and Relational Databases, MySQL, PostgreSQL
   - MongoDB and NoSQL Databases
 - **Other Skills:**
   - UML (Unified Modeling Language)
@@ -22,7 +22,7 @@ I've been studying a Higher Degree in Web Application Development from 2022 to 2
 - **Markup Languages:**
   - XML, HTML, XPath, XQuery, JSON
 - **Client-Side Programming:**
-  - JavaScript, Vue.js
+  - JavaScript, TypeScript, Vue.js
 - **Server-Side Programming:**
   - PHP and Laravel
 - **Design:**
